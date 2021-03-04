@@ -1,0 +1,46 @@
+/*main page style*/
+
+html {
+  
+  text-align: left;
+  font-size: 20px;
+  
+  padding: 40px;
+}
+
+#header{
+  display: flex;
+  padding-bottom: 30px;
+}
+
+#col2{
+  text-align: right;
+  padding-left: 20px;
+  width: 100%;
+}
+#lineBreak{
+  border-top: 3px solid black;
+}
+#mainBody{
+  display: flex;
+  padding-top: 30px;
+}
+#rCol{
+  padding-left:30px;
+}
+
+
+/*fine details*/
+
+h1{
+  font-size: 40px;
+  padding-bottom: 10px;
+}
+h2{
+  font-size: 34px;
+  padding-bottom: 10px;
+}
+h3{
+  font-size: 25px;
+  padding-bottom: 10px;
+}
